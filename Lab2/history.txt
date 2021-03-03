@@ -1,0 +1,504 @@
+echo lol 
+pwd 
+ls 
+history 
+export 
+cd .. 
+export PWD=/home/berwin/Desktop 
+pwd 
+cd another 
+cd /another 
+pwd 
+exit 
+echo lol 
+export 
+export 
+echo $JAVA 
+echo $PWD 
+export 
+exit 
+export 
+export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin 
+export 
+echo lol 
+echo $PATH 
+pwd 
+cd 
+export PWD=/home/berwin/Desktop 
+cd .. 
+export PWD=/home/berwin 
+pwd 
+pwd 
+cd Desktop 
+export PWD=/home/berwin/Desktop 
+cd another 
+export PWD=/home/berwin/Desktop/another 
+pwd 
+cd 
+export PWD=/home/berwin/Desktop 
+exit 
+export 
+exit 
+export 
+export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin 
+export 
+pwd 
+cd 
+export PWD=/home/berwin/Desktop 
+pwd 
+export 
+cd another 
+export PWD=/home/berwin/Desktop/another 
+pwd 
+export 
+export PWD=/lol:/bin 
+export 
+exit 
+export 
+export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin 
+export 
+pwd 
+cd .. 
+export PWD=/home/berwin/Deskto 
+pwd 
+ls 
+export 
+cd another 
+export PWD=/home/berwin/Desktop/anothe 
+export 
+exit 
+export 
+cd .. 
+export PWD=/home/berwin/Desktop 
+pwd 
+export 
+cd another 
+export PWD=/home/berwin/Desktop/another 
+pwd 
+export 
+exit 
+exit 
+export 
+export PATH=/bin:/sbin 
+export 
+pwd 
+cd .. 
+export PWD=/home/berwin/Deskto 
+pwd 
+export 
+exit 
+export 
+export PATH=/bin:/sbin 
+export 
+pwd 
+cd .. 
+export PWD=/home/berwin/Desktop 
+pwd 
+export 
+cd another 
+export PWD=/home/berwin/Desktop/another 
+export 
+exit 
+export 
+export PATH=/bin 
+export 
+cd 
+export PWD=/home/berwin/Desktop 
+pwd 
+export 
+cd another 
+export PWD=/home/berwin/Desktop/another 
+export 
+cd 
+export PWD=/home/berwin/Desktop 
+export 
+cd 
+export PWD=/home/berwin 
+export 
+echo $PATH 
+exit 
+export 
+export PATH=/bin 
+ls 
+export 
+pwd 
+cd .. 
+export PWD=/home/berwin/Desktop 
+export 
+cd another 
+export PWD=/home/berwin/Desktop/another 
+export 
+exit 
+export 
+export PATH=/bin 
+ls 
+pwd 
+cd .. 
+export PWD=/home/berwin/Desktop
+ 
+export 
+cd another 
+export PWD=/home/berwin/Desktop/another
+ 
+export 
+cd .. 
+export PWD=/home/berwin/Desktop
+ 
+cd 
+export PWD=/home/berwin/Desktop
+ 
+export 
+export PATH=/bin 
+ls 
+cd 
+export PWD=/home/berwin/Desktop 
+export 
+exit 
+export 
+export PATH=/bin 
+cd .. 
+export PWD=/home/berwin/Desktop 
+export 
+cd .. 
+export PWD=/home/berwin 
+export 
+exit 
+export 
+exit 
+export 
+export PATH=/bin 
+export 
+pwd 
+cd .. 
+export 
+cd .. 
+export 
+exit 
+export 
+export JAVA=/sbin 
+export PATH=/bin 
+export 
+pwd 
+cd .. 
+export 
+cd .. 
+export 
+exit 
+export PATH=/bin:/sbin 
+export 
+exit 
+export 
+exit 
+export 
+export PATH=/bin 
+export JAVA=/icecrea:/sbin 
+export 
+pwd 
+cd .. 
+export 
+cd .. 
+export 
+cd Desktop 
+export 
+export 
+exit 
+export 
+echo lol 
+cd .. 
+pwd 
+cd another 
+pwd 
+export 
+cd .. 
+export 
+pwd 
+cd .. 
+pwd 
+export 
+cd .. 
+exit 
+export 
+pwd 
+cd .. 
+pwd 
+cd another 
+export 
+exit 
+
+export 
+cd .. 
+export PWD=/home/berwin/Desktop 
+export 
+cd another 
+export PWD=/home/berwin/Desktop/another 
+export 
+exit 
+export 
+export PATH=/bin 
+export JAVA=/sbin 
+cd .. 
+pwd 
+export 
+cd .. 
+export 
+exit 
+export 
+export PATH=/bin 
+cd .. 
+export 
+cd .. 
+export 
+exit 
+export 
+cd .. 
+exit 
+export 
+export PATH=/bin 
+pwd 
+export 
+cd .. 
+export 
+cd .. 
+export 
+exit 
+exit 
+export 
+export PATH=/bin 
+cd .. 
+export 
+cd .. 
+export 
+cd another 
+export 
+exit 
+export 
+export PATH=/bin 
+export 
+export 
+cd .. 
+export 
+cd .. 
+export 
+exit 
+export 
+export PATH=/bin 
+export 
+pwd 
+cd .. 
+export PWD=/home/berwin/Desktop 
+pwd 
+export 
+cd .. 
+export PWD=/home/berwin 
+export 
+export PATH=/sbin:/bin 
+export 
+ls 
+cd 
+export PWD=/home 
+pwd 
+export 
+cd berwin 
+export PWD=/home/berwin 
+pwd 
+export 
+cd 
+export PWD=/home 
+export 
+cd berwin 
+export PWD=/home/berwin 
+cd Desktop 
+export PWD=/home/berwin/Desktop 
+export 
+cd another 
+export PWD=/home/berwin/Desktop/another 
+export 
+cd 
+export PWD=/home/berwin/Desktop 
+pwd 
+export 
+cd 
+export PWD=/home/berwin 
+export 
+pwd 
+cd 
+export PWD=/home 
+exit 
+export 
+export PATH=/bin 
+pwd 
+cd 
+pwd 
+export 
+cd 
+pwd 
+export 
+exit 
+export 
+export PATH=/bin 
+export 
+cd .. 
+export 
+cd .. 
+export 
+pwd 
+cd another 
+export 
+exit 
+export 
+cd .. 
+exit 
+export 
+cd .. 
+exit 
+export 
+cd .. 
+pwd 
+fg 
+exit 
+export 
+cd .. 
+export PWD=/home/berwin/Desktop 
+export 
+cd .. 
+export PWD=/home/berwin 
+export 
+cd .. 
+export PWD=/home 
+export 
+exit 
+exit 
+export 
+cd .. 
+export PWD=/home/berwin/Desktop 
+export 
+cd .. 
+export PWD=/home/berwin 
+export 
+exit 
+export 
+cd .. 
+export PWD=/home/berwin/Desktop 
+exit 
+pwd 
+cd another 
+export 
+cd .. 
+export PWD=/home/berwin/Desktop 
+export 
+cd .. 
+export PWD=/home/berwin 
+export 
+exit 
+export PATH=/bin 
+export 
+exit 
+exit 
+export JAVA=/sbin 
+exit 
+export 
+export JAVA=apple:/oragnm 
+export 
+exit 
+export 
+cd .. 
+export PWD=/home/berwin/Desktop 
+export 
+cd .. 
+export PWD=/home/berwin 
+export 
+exit 
+export PWD=/home/berwin/Desktop/another 
+export 
+cd .. 
+export PWD=/home/berwin/Desktop 
+export 
+cd .. 
+export PWD=/home/berwin 
+export 
+exit 
+export PWD=/home/berwin/Desktop/another 
+export PATH=/bin:/sbin 
+export 
+export 
+exit 
+export PWD=/home/berwin/Desktop/another 
+export 
+cd . 
+export PWD=/home/berwin/Desktop/another 
+export 
+pwd 
+cd .. 
+export PWD=/home/berwin/Desktop 
+pwd 
+export 
+export another 
+export 
+export 
+export 
+cd .. 
+export PWD=/home/berwin/Desktop 
+export 
+export 
+cd .. 
+export PWD=/home/berwin 
+export 
+cd .. 
+export PWD=/home 
+export 
+exit 
+export 
+pwd 
+exit 
+export JAVA=/sbin 
+export PATH=/bin 
+exit 
+export YAYA=/helo 
+exit 
+export 
+export JAVA=/pop:/asd 
+export 
+exit 
+export 
+export JAVA=/sbin:/bin 
+export 
+exit 
+export 
+exit 
+export PATH=/bin 
+export 
+export PATH=/bin:/sbin 
+export 
+exit 
+pwd 
+export 
+cd .. 
+export PWD=/home/berwin/Desktop 
+export 
+cd .. 
+export PWD=/home/berwin 
+export 
+exit 
+export 
+export PATH=/bin 
+export 
+cd .. 
+export PWD=/home/berwin/Desktop 
+export 
+cd .. 
+export PWD=/home/berwin 
+export 
+exit 
+export 
+cd .. 
+export PWD=/home/berwin/Deskto 
+export 
+exit 
+export 
+cd .. 
+export PWD=/home/berwin/Desktop 
+export 
+cd another 
+export PWD=/home/berwin/Desktop/another 
+export 
+exit 
