@@ -1,2 +1,4 @@
 # NYUAD-OS
-Operating System Spring 2019 NYUAD (Insert Prof Name here)
+
+Spring 2019 </br>
+Operating System CS-UH 3010-001 </br>
